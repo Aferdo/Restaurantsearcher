@@ -21,8 +21,6 @@ import javafx.scene.control.TextField;
 import javafx.stage.Stage;
 
 public class lieferung {
-
-	
 	@FXML 
 	ChoiceBox <String> choose ; 
 	@FXML 
